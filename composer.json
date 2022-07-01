@@ -1,0 +1,17 @@
+{
+    "name": "kxm-123/send-code",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kxm123\\SendCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kxm-123",
+            "email": "107617029+kxm-123@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
