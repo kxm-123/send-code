@@ -1,5 +1,5 @@
 <?php
-namespace yuan\Send\Code\Send;
+namespace yuan\Send\Code;
 class Send
 {
 public static function index(){
